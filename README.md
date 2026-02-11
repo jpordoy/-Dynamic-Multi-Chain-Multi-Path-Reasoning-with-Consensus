@@ -130,15 +130,9 @@ python plot_results.py
 
 ```
 Cost vs. Accuracy
-──────────────────────────────────────────────────────────
-                          LOW COST ←────────→ HIGH COST
-HIGH ACCURACY  ↑
-               │                        ★ This System
-               │              Claude 3 Opus ●   GPT-4 ●
-               │
-               │    Haiku Single-Path ●
-LOW ACCURACY   ↓
-──────────────────────────────────────────────────────────
+
+<img src="Images/gsm8k_comparison.png" alt="GSM8K Accuracy — Model Comparison" width="700">
+
 ★ = Best value zone: high accuracy, low cost
 ```
 
