@@ -95,14 +95,18 @@ This result is significant because it shows that inference-time reasoning techni
 
 <img src="Images/gsm8k_comparison.png" alt="GSM8K Accuracy — Model Comparison" width="700">
 
-**Legend.** [1] This System (Haiku 3.5 + Multi-Path) = **94.6%** ★, [2] Claude 3 Opus [Anthropic 2024] = 95.0%, [3] GPT-4 0-shot CoT [OpenAI 2023] = 92.0%, [4] Claude 3 Haiku (0-shot) [est.] = 88.9%, [5] GPT-3.5 Turbo 5-shot [OpenAI 2023] = 57.1%. ★ Multi-path inference-time scaling (not directly comparable to standard 0-shot baselines). Scale shown: 50%–96%.
+**Legend**
+- **This System (Haiku 3.5 + Multi-Path)** — 94.6% (★ = Multi-path inference-time scaling)  
+- **Claude 3 Opus** [Anthropic 2024] — 95.0%  
+- **GPT-4 0-shot CoT** [OpenAI 2023] — 92.0%  
+- **Claude 3 Haiku (0-shot)** [est.] — 88.9%  
+- **GPT-3.5 Turbo 5-shot** [OpenAI 2023] — 57.1%  
+- The scale shows performance between **50% and 96%**.
 
 To reproduce this chart locally with matplotlib, run:
 
 ```bash
 python plot_results.py
-
-
 See [`plot_results.py`](plot_results.py) at the root of this repository for the full chart code.
 
 ---
