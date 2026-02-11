@@ -115,6 +115,8 @@ python plot_results.py
 
 See [`plot_results.py`](plot_results.py) at the root of this repository for the full chart code.
 
+```
+
 ---
 
 ### 💰 Cost vs. Accuracy
