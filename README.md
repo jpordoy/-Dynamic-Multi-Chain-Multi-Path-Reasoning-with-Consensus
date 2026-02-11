@@ -132,7 +132,7 @@ python plot_results.py
 
 ### Cost vs. Accuracy Chart
 
-<img src="Images/gsm8k_comparison.png" alt="GSM8K Price — Model Comparison" width="700">
+<img src="Images/gsm8k_comparison1.png" alt="GSM8K Price — Model Comparison" width="700">
 
 ★ = Best value zone: high accuracy, low cost
 
