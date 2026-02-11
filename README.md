@@ -104,8 +104,6 @@ This result is significant because it shows that inference-time reasoning techni
 | Claude 3 Haiku (0-shot) [est.]             | 88.9%    |
 | GPT-3.5 Turbo 5-shot [OpenAI 2023]         | 57.1%    |
 
-★ = Multi-path inference-time scaling (not directly comparable to 0-shot baselines)  
-Scale shown: **50% – 96%**
 
 To reproduce this chart locally with matplotlib, run:
 
