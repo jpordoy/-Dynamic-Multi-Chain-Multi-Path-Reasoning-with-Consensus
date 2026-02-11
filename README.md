@@ -128,8 +128,9 @@ python plot_results.py
 
 > Cost estimates for third-party models are based on publicly listed API pricing as of early 2025 and are approximate. Our system cost reflects actual API spend observed during the evaluation run.
 
-```
-Cost vs. Accuracy
+---
+
+### Cost vs. Accuracy Chart
 
 <img src="Images/gsm8k_accuracy_colored.png" alt="GSM8K Accuracy — Model Comparison" width="700">
 
@@ -153,6 +154,7 @@ Cost vs. Accuracy
 > Full terminal output including all reasoning chains is in [`raw_results.txt`](raw_results.txt).
 
 ---
+
 
 ## 🔍 Key Findings
 
