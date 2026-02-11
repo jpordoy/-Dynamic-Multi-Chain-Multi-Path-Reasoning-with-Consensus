@@ -108,6 +108,10 @@ This result is significant because it shows that inference-time reasoning techni
 To reproduce this chart locally with matplotlib, run:
 
 ```bash
+cd Scripts
+```
+
+```bash
 python plot_results.py
 ```
 
