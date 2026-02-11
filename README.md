@@ -95,14 +95,8 @@ This result is significant because it shows that inference-time reasoning techni
 
 ```
 GSM8K Accuracy — Model Comparison (0-shot CoT unless noted)
-──────────────────────────────────────────────────────────────────
-This System (Haiku 3.5 + Multi-Path) ████████████████████████  94.6% ★
-Claude 3 Opus [Anthropic 2024]        █████████████████████████ 95.0%
-GPT-4 0-shot CoT [OpenAI 2023]        ███████████████████████   92.0%
-Claude 3 Haiku (0-shot) [est.]        █████████████████████     88.9%
-GPT-3.5 Turbo 5-shot [OpenAI 2023]    ██████████                57.1%
-──────────────────────────────────────────────────────────────────
-                                       50%                   96%
+
+![GSM8K Accuracy — Model Comparison](Images/gsm8k_comparison.png)
 
 ★ = Multi-path inference-time scaling (not directly comparable to 0-shot baselines)
 ```
