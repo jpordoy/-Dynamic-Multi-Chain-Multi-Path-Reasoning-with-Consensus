@@ -134,7 +134,6 @@ Cost vs. Accuracy
 <img src="Images/gsm8k_accuracy_colored.png" alt="GSM8K Accuracy — Model Comparison" width="700">
 
 ★ = Best value zone: high accuracy, low cost
-```
 
 ---
 
