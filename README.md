@@ -93,10 +93,9 @@ This result is significant because it shows that inference-time reasoning techni
 
 ### 📈 Accuracy Comparison
 
-<img src="Images/gsm8k_comparison.png" alt="GSM8K Accuracy — Model Comparison" width="700">
+<img src="Images/gsm8k_accuracy_colored.png" alt="GSM8K Accuracy — Model Comparison" width="700">
 
-#### Legend
-
+#### 
 | Model / System                              | Accuracy |
 |--------------------------------------------|----------|
 | **This System (Haiku 3.5 + Multi-Path)** ★ | **94.6%** |

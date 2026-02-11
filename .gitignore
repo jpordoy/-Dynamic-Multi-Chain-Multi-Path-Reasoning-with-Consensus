@@ -3,8 +3,6 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
-.ipynb_checkpoints/
-*.ipynb
 Results/*.json
 .vscode/
 .idea/
